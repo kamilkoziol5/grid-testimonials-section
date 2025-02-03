@@ -98,6 +98,7 @@ main {
 .card4 {
 	grid-row: 2/3;
 	grid-column: 2/4;
+	background-color: var(--DarkBlue-Blackish);
 }
 
 .card5 {
